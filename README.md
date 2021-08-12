@@ -41,5 +41,5 @@ PB собирается с сайта https://www.etf.com. Selenium собира
 3. Создать файл google sheets (адрес указать в google_sheet)
 4. Отправить от этого google sheet доступ на редактирование этому проекту
 
-Подробная инструкция https://docs.gspread.org/en/latest/oauth2.html#enable-api-access-for-a-project
+  Инструкция по интеграции с google  sheets https://docs.gspread.org/en/latest/oauth2.html#enable-api-access-for-a-project
 
